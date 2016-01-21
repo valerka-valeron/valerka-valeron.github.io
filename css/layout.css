@@ -86,7 +86,7 @@ body {
   text-align: left; }
 
 .small {
-  font-size: 6em !important; }
+  font-size: em !important; }
 
 .footer {
   display: flex;
